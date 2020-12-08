@@ -16,7 +16,7 @@ Este trabalho apresenta o desenvolvimento de uma aplicação que busca viabiliza
 Quer baixar nosso aplicativo Blue Angel? Você poderá baixa-lo clicando no link abaixo:</br>
 <a href="https://drive.google.com/file/d/16dTsSlY014ofuW-9J-gsUD2vFwFWCQEd/view?usp=drivesdk" target="_blank">Clique Aqui para baixar</a>
 
-<h1 id="members">Integrante</h1>
+<h1 id="members">Integrantes</h1>
 <ul>
   <li>Rafaela Lima Ferreira</li>
   <li>Natália Bruce</li>
