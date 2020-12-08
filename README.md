@@ -2,11 +2,10 @@
 <ul>
   <li><a href="#description">Descricao</a></br></li>
   <li><a href="#how_to_download">Como Baixar</a></br></li>
-  <li><a href="functionalities">Funcionalidades</a>
   <li><a href="#members">Integrantes</a></br></li>
   <li><a href="#functionalities">Funcionalidades</a></br></li>
   <li><a href="#installation">Instalação</a></br></li>
-  <li><a href="#generate version">Gerar Versão</a></br></li>
+  <li><a href="#generate_version">Gerar Versão</a></br></li>
 </ul>
 
 <h1 id="description">Descrição</h1>
