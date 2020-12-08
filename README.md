@@ -56,7 +56,7 @@ Quer baixar nosso aplicativo Blue Angel? Você poderá baixa-lo clicando no link
 <h1 id="installation">Instalação</h1>
 Basta navegar para o link acima, na sessão de <a href="#how_to_download">Como Baixar</a>
 
-<h1 id="generate_version">Instalação</h1>
+<h1 id="generate_version">Gerar Versão</h1>
 Para você gerar uma versão, basta seguir os seguintes passos:
 <ol>
   <li>Abrar o GitHub é acesse o link do projeto <a href="https://github.com/Thiilyn/Blue-Angel">Blue Angel</a></li>
