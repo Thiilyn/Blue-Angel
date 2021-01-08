@@ -1,6 +1,6 @@
 # Bem Vindo ao Blue Angel
 <ul>
-  <li><a href="#description">Descricao</a></br></li>
+  <li><a href="#description">Description</a></br></li>
   <li><a href="#how_to_download">Como Baixar</a></br></li>
   <li><a href="#members">Integrantes</a></br></li>
   <li><a href="#functionalities">Funcionalidades</a></br></li>
