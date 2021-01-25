@@ -51,7 +51,7 @@ Want to download our Blue Angel app? You can download it by clicking on the link
 ## Example sentence associated with image
 ![frase_nivel_1](https://github.com/Thiilyn/Blue-Angel/blob/master/frase_nivel_1.PNG)
 
-<h1 id="installation">Instalação</h1>
+<h1 id="installation">Installation</h1>
 Just navigate to the link above, in the <a href="#how_to_download">How to download</a>
 
 
