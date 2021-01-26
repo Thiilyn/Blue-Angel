@@ -8,7 +8,7 @@
 </ul>
 
 <h1 align="center" id="description">Description</h1>
-This work presents the development of an application that seeks to make literacy practice feasible for autistic children, who have learning difficulties. The project proposes to help autistic children, through a technological platform, during their first school steps, which is when they may have more difficulties, due to the limitations that Autism Spectrum Disorder can offer. It is expected that, through application, children will be able to fully develop in their literacy.
+This work presents the development of an application that seeks to make the practice of literacy of autistic children with learning difficulties feasible. The project aims to help children with autism, through a mobile app, in the first school steps, when they may have more difficulties, due to the limitations that Autism Spectrum Disorder can offer. It is hoped that, through application, children will be able to fully develop in their literacy.
 
 <h1 align="center" id="how_to_download">How to Download</h1>
 Want to download our Blue Angel app? You can download it by clicking on the link below:</br>
@@ -16,16 +16,16 @@ Want to download our Blue Angel app? You can download it by clicking on the link
 
 <h1 align="center" id="members">Members</h1>
 <ul>
-  <li>Natália Bruce</li>
-  <li>Thiilyn Niksan</li>
+  <li align="center">Natália Bruce</li>
+  <li align="center">Thiilyn Niksan</li>
 </ul>
 
-<h1 id="functionalities">Functionalities</h1>
+<h1 align="center" id="functionalities">Functionalities</h1>
 <ol>
-  <li>The user can choose 3 phases, namely Letters, Syllables and Phrases.</li>
-  <li>The user can choose from the level options in each phase.</li>
-  <li>Each level is completed when the user correctly answers the question asked.</li>
-  <li>When a level is completed, the system returns to the main menu screen.</li>
+  <li align="center">The user can choose 3 phases, namely Letters, Syllables and Phrases.</li>
+  <li align="center">The user can choose from the level options in each phase.</li>
+  <li align="center">Each level is completed when the user correctly answers the question asked.</li>
+  <li align="center">When a level is completed, the system returns to the main menu screen.</li>
 </ol>
 
 ## Menu screen where there are 3 phases
@@ -52,5 +52,5 @@ Want to download our Blue Angel app? You can download it by clicking on the link
 
 ![frase_nivel_1](https://github.com/Thiilyn/Blue-Angel/blob/master/syllable-exercise.jpeg)
 
-<h1 id="installation">Installation</h1>
+<h1 align="center" id="installation">Installation</h1>
 Just navigate to the link above, in the <a href="#how_to_download">How to download</a>
