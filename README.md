@@ -1,6 +1,10 @@
 <h1 align="center">Blue Angel</h1>
 
+<img align="center" id="description">
+
 ![logo_app](https://github.com/Thiilyn/Blue-Angel/blob/master/src/assets/icon.png)
+
+</img>
 
 <ul>
   <li><a href="#description">Description</a></br></li>
