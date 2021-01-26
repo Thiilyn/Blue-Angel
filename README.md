@@ -31,9 +31,9 @@ Want to download our Blue Angel app? You can download it by clicking on the link
 
 ## Menu screen where there are 3 phases:
 
-<h2 align="center" id="functionalities">- Learning of Letters</h2>
-<h2 align="center" id="functionalities">-Learning of syllables (parts of words)</h2>
-<h2 align="center" id="functionalities">-Learning Phrases</h2>
+<h2  id="functionalities">- Learning of Letters</h2>
+<h2  id="functionalities">-Learning of syllables (parts of words)</h2>
+<h2 id="functionalities">-Learning Phrases</h2>
 
 ![menu_principal](https://github.com/Thiilyn/Blue-Angel/blob/master/home.jpeg)
 
