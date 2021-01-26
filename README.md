@@ -1,4 +1,7 @@
 <h1 align="center">Blue Angel</h1>
+
+![logo_app](https://github.com/Thiilyn/Blue-Angel/blob/master/src/assets/icon.png)
+
 <ul>
   <li><a href="#description">Description</a></br></li>
   <li><a href="#how_to_download">How to Download</a></br></li>
