@@ -22,21 +22,31 @@ Want to download our Blue Angel app? You can download it by clicking on the link
 
 <h1 align="center" id="functionalities">Functionalities</h1>
 <ol>
-  <li align="center">The user can choose 3 phases, namely Letters, Syllables and Phrases.</li>
+  <li align="center">The user can choose 3 phases: Letters, Syllables and Phrases.</li>
   <li align="center">The user can choose from the level options in each phase.</li>
   <li align="center">Each level is completed when the user correctly answers the question asked.</li>
   <li align="center">When a level is completed, the system returns to the main menu screen.</li>
+  <li align="center">Attention: In exercises the child is always assisted with a voice feature.</li>
 </ol>
 
 ## Menu screen where there are 3 phases
+
+<h2 align="center" id="functionalities">Operation starts at the main screen in the presentation of three features:</h2>
+<h2 align="center" id="functionalities">- Learning of Letters</h2>
+<h2 align="center" id="functionalities">-Learning of syllables (parts of words)</h2>
+<h2 align="center" id="functionalities">-Learning Phrases</h2>
 
 ![menu_principal](https://github.com/Thiilyn/Blue-Angel/blob/master/home.jpeg)
 
 ## Screen where the user can choose the levels
 
+<h2 align="center" id="functionalities">In each main feature. There is a level of difficulty that is increasing.</h2>
+
 ![fase2](https://github.com/Thiilyn/Blue-Angel/blob/master/levels.jpeg)
 
 ## Screen example of Level 1 Letters Phase
+
+<h2 align="center" id="functionalities">In this example, the instruction of what will be accomplished in the exercises begins. The instructions and activities are carried out by voice command because it is believed that the autistic child cannot read the instructions.</h2>
 
 ![nivel1](https://github.com/Thiilyn/Blue-Angel/blob/master/home-letter.jpeg)
 
