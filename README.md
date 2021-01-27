@@ -70,7 +70,7 @@ Want to download our Blue Angel app? You can download it by clicking on the link
 
 ## Look the video of Apps'functionalities:
 
-![blue-angel_video](https://github.com/Thiilyn/Blue-Angel/blob/master/syllable-exercise.jpeg)
+![blue-angel_video](https://github.com/Thiilyn/Blue-Angel/blob/master/blue-angel.mp4)
 
 <h1 align="center" id="installation">Installation</h1>
 Just navigate to the link above, in the <a href="#how_to_download">How to download</a>
