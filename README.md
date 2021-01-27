@@ -68,5 +68,9 @@ Want to download our Blue Angel app? You can download it by clicking on the link
 
 ![frase_nivel_1](https://github.com/Thiilyn/Blue-Angel/blob/master/syllable-exercise.jpeg)
 
+## Look the video of Apps'functionalities:
+
+![blue-angel_video](https://github.com/Thiilyn/Blue-Angel/blob/master/syllable-exercise.jpeg)
+
 <h1 align="center" id="installation">Installation</h1>
 Just navigate to the link above, in the <a href="#how_to_download">How to download</a>
